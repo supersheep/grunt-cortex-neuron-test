@@ -1,6 +1,6 @@
 {
   "name": "grunt-cortex-neuron-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test grunt built cases",
   "main": "index.js",
   "scripts": {
